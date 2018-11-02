@@ -1,0 +1,18 @@
+{
+  "name": "flowmmonitoring",
+  "version": "1.0.0",
+  "description": "监控公司的所有服务的调用情况",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "三个实习生",
+  "license": "ISC",
+  "dependencies": {
+    "kcors": "^2.2.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-log": "^2.1.0",
+    "koa-logger": "^3.2.0",
+    "wormhole": "^3.0.0"
+  }
+}
